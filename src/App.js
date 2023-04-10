@@ -1,7 +1,10 @@
 import logo from "./logo.svg";
 import "./App.css";
 
-function App() {
+const App = () => {
+  // template + logic
+  // JSX
+  //babel
   return (
     <div className="App">
       <header className="App-header">
@@ -10,6 +13,6 @@ function App() {
       </header>
     </div>
   );
-}
+};
 
 export default App;
